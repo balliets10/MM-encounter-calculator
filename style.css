@@ -1,0 +1,11 @@
+.ability-scores {
+  text-decoration: underline;
+};
+
+.ab-score-box {
+  background-color: grey;
+}
+
+.underline {
+  text-decoration: underline;
+}
